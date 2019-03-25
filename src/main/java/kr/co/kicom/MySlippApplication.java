@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MySlippApplication {
 
 	public static void main(String[] args) {
+		
 		SpringApplication.run(MySlippApplication.class, args);
 	}
 
